@@ -1,0 +1,16 @@
+{
+  "name": "home-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromecast-api": "^0.3.4",
+    "cron": "^1.8.2"
+  }
+}
